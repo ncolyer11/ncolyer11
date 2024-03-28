@@ -24,12 +24,6 @@ Feel free to reach out to me through the following channels:
 - [Twitter](link): @username
 - [YouTube](link): Channel Name
 
-## Let's Collaborate!
-
-If you're interested in collaborating on technical Minecraft projects or educational content creation, don't hesitate to get in touch. I'm always open to new ideas and collaborations.
-
-Thanks for stopping by!
-
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](link)
 
 
