@@ -1,4 +1,5 @@
 ### Hi there 👋
+uhh randomly discovered you can add readme.md's to ur profile from some post on twitter but its 2am rn so can't be bothered actually making a proper one now coz coz so below is just ai genned nonsense that's just a glorified lorum ipsum dollar asit
 
 # About Me
 
