@@ -1,15 +1,11 @@
-### Hi there 👋
-uhh randomly discovered you can add readme.md's to ur profile from some post on twitter but its 2am rn so can't be bothered actually making a proper one now coz coz so below is just ai genned nonsense that's just a glorified lorum ipsum dollar asit
 
-# About Me
-
-Hey there! Welcome to my GitHub profile. I'm passionate about technical Minecraft and using code to create engaging educational content, particularly through animations and explanation videos. Here's a bit more about what you'll find here:
+# Hi there 👋
+welcome to the penultimate layer of the rabbit hole
 
 ## What I Do
 
-- **Technical Minecraft Development**: I love diving into the intricacies of Minecraft's mechanics and using code to enhance gameplay and create unique experiences.
-- **Educational Content Creation**: I leverage my expertise in engineering and computer science to teach others about programming through coding animations and explanatory videos.
-- **Tool Development for Minecraft**: I develop tools and utilities that aid in the development process for technical Minecraft projects.
+- **Technical Minecraft Development**: I develop tools and utilities that aid in the development process for technical Minecraft projects such as nether tree and chorus plant farms.
+- **Educational Content Creation**: I leverage my passion in engineering and computer science to teach others about programming and technical Minecraft through coding up animations using Manim.
 
 ## Featured Repositories
 
