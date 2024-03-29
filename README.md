@@ -1,6 +1,8 @@
 
 Welcome to the penultimate layer of the rabbit hole.
 
+[![GitHub followers](https://img.shields.io/github/followers/ncolyer11?label=Follow&style=social)](https://github.com/ncolyer11)
+
 ## What I Do
 
 - **Technical Minecraft Development**: I develop tools and utilities that aid in the development process for technical Minecraft projects such as nether tree and chorus plant farms
@@ -19,11 +21,6 @@ Feel free to reach out to me through the following channels:
 - [YouTube](https://www.youtube.com/@ncolyer): ncolyer
 - [Twitter](https://twitter.com/ncolyer11): @ncolyer11
 - [Discord](https://discord.gg/EKKkyfcPPV): Huge Fungi Huggers
-
-[![GitHub followers](https://img.shields.io/github/followers/ncolyer11?label=Follow&style=social)](https://github.com/ncolyer11)
-
-
-
 <!--
 **ncolyer11/ncolyer11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
