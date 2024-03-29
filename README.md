@@ -12,7 +12,7 @@ Welcome to the penultimate layer of the rabbit hole.
 
 - [Stemlight](https://github.com/ncolyer11/Stemlight): A GUI program able to run various tools to help develop and learn about nether tree farms
 - [Chorus Simulator](https://github.com/ncolyer11/Chorus-Simulator): A simulation program written in Julia that simulates, tracks, and plots average chorus flower growth
-- [Nether Tree Heatmaps](https://github.com/ncolyer11/Nether-Tree-Index-and-Heatmaps): A program that takes the weighted average of every type of nether tree and outputs that data to a set of heatmaps
+- [Nether Tree Heatmaps](https://github.com/ncolyer11/Nether-Tree-Index-and-Heatmaps): A program that finds the weighted average of every type of nether tree and outputs that data to a set of heatmaps
 
 ## Get in Touch
 
