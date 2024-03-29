@@ -13,18 +13,19 @@ Hey there! Welcome to my GitHub profile. I'm passionate about technical Minecraf
 
 ## Featured Repositories
 
-- [Project1](link): Brief description.
-- [Project2](link): Brief description.
-- [Project3](link): Brief description.
+- [Stemlight](https://github.com/ncolyer11/Stemlight): A GUI program able to run various tools to help develop and learn about nether tree farms
+- [Chorus Simulator](https://github.com/ncolyer11/Chorus-Simulator): A simulation program written in Julia that simulates, tracks, and plots average chorus flower growth
+- [Nether Tree Heatmaps](https://github.com/ncolyer11/Nether-Tree-Index-and-Heatmaps): A program that takes the weighted average of every type of nether tree and outputs that data to a set of heatmaps
 
 ## Get in Touch
 
 Feel free to reach out to me through the following channels:
 
-- [Twitter](link): @username
-- [YouTube](link): Channel Name
+- [YouTube](https://www.youtube.com/@ncolyer): ncolyer
+- [Twitter](https://twitter.com/ncolyer11): @ncolyer11
+- [Discord](https://discord.gg/EKKkyfcPPV): Huge Fungi Huggers
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](link)
+[![GitHub followers](https://img.shields.io/github/followers/ncolyer11?label=Follow&style=social)](https://github.com/ncolyer11)
 
 
 
