@@ -11,8 +11,11 @@ Welcome to the penultimate layer of the rabbit hole.
 ## Featured Repositories
 
 - [Stemlight](https://github.com/ncolyer11/Stemlight): A GUI program able to run various tools to help develop and learn about nether tree farms
+- - [The SSS Video Animation Code](https://github.com/ncolyer11/SSS-Manim-Rendering-Code): All the Python code used to make nearly 10 minutes of engineering and statistical animations for the "Designing the Fastest Self-sustaining Nether Tree Farm using Science" video
 - [Chorus Simulator](https://github.com/ncolyer11/Chorus-Simulator): A simulation program written in Julia that simulates, tracks, and plots average chorus flower growth
 - [Nether Tree Heatmaps](https://github.com/ncolyer11/Nether-Tree-Index-and-Heatmaps): A program that finds the weighted average of every type of nether tree and outputs that data to a set of heatmaps
+- [World Download Tour Guide Discord Bot](https://github.com/ncolyer11/wdl-tour-guide-bot): A discord bot written in Typescript that has auto help and reply features, auto-spammer/malicious actor detection and banning, moderation tools, and more
+
 
 ## Get in Touch
 
