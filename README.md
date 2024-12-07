@@ -22,7 +22,7 @@ Welcome to the penultimate layer of the rabbit hole.
 Feel free to reach out to me through the following channels:
 
 - [YouTube](https://www.youtube.com/@ncolyer): ncolyer
-- [Twitter](https://twitter.com/ncolyer11): @ncolyer11
+- [Twitter](https://twitter.com/ncolyer11): @ncolyer11 (don't use twitter anymore)
 - [Discord](https://discord.gg/EKKkyfcPPV): Huge Fungi Huggers
 <!--
 **ncolyer11/ncolyer11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
