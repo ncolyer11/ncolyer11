@@ -2,6 +2,7 @@
 Welcome to the penultimate layer of the rabbit hole.
 
 [![GitHub followers](https://img.shields.io/github/followers/ncolyer11?label=Follow&style=social)](https://github.com/ncolyer11)
+![Profile Views](https://komarev.com/ghpvc/?username=ncolyer11&color=blue)
 
 ## What I Do
 
