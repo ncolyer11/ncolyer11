@@ -1,42 +1,27 @@
-
-Welcome to the penultimate layer of the rabbit hole.
+Hello there, I write simulation and data analysis software as well as some embedded code that runs on real-world projects. I'm most at home in Python and Julia but can code in C all night long even with airplane mode on. I study electrical engineering and computer science, and I like studying and making sense of messy systems by turning them into models you can run, measure and plot.
 
 [![GitHub followers](https://img.shields.io/github/followers/ncolyer11?label=Follow&style=social)](https://github.com/ncolyer11)
 ![Profile Views](https://komarev.com/ghpvc/?username=ncolyer11&color=blue)
 
 ## What I Do
 
-- **Technical Minecraft Development**: I develop tools and utilities that aid in the development process for technical Minecraft projects such as nether tree and chorus plant farms
-- **Educational Content Creation**: I leverage my passion for engineering and computer science to teach others about programming and technical Minecraft through coding up animations using the Manim Python library for math animations
+- **PCB design**: schematics and board layouts done in KiCad or Altium all the way up to soldering and bench testing
+- **Embedded systems**: firmware in C and C++ for ESP32 and Arduino-class microcontrollers, working within tight memory and timing budgets
+- **Digital design and FPGAs**: digital logic and hardware description in Verilog (such as digital locks, and truck weighing and verification systems)
+- **Simulation, scientific computing and data analysis**: stochastic simulations in Julia and Python, and the statistics and visualisation of their output
+- **Educational content creation**: teaching problem solving and technical Minecraft through animations made with the Manim Python library
+- **Technical Minecraft development**: tools and utilities that support technical projects such as nether tree and chorus plant farms
 
-## Featured Repositories
+## Featured Projects
 
-- [Stemlight](https://github.com/ncolyer11/Stemlight): A GUI program able to run various tools to help develop and learn about nether tree farms
-- [The SSS Video Animation Code](https://github.com/ncolyer11/SSS-Manim-Rendering-Code): All the Python code used to make nearly 10 minutes of engineering and statistical animations for the "Designing the Fastest Self-sustaining Nether Tree Farm using Science" video
-- [S2RM: Schematic to Raw Materials](https://github.com/ncolyer11/S2RM): A GUI program that generates a raw materials items list for a litematica materials.txt or .csv file.
-- [Chorus Simulator](https://github.com/ncolyer11/Chorus-Simulator): A simulation program written in Julia that simulates, tracks, and plots average chorus flower growth
-- [Nether Tree Heatmaps](https://github.com/ncolyer11/Nether-Tree-Index-and-Heatmaps): A program that finds the weighted average of every type of nether tree and outputs that data to a set of heatmaps
-- [World Download Tour Guide Discord Bot](https://github.com/ncolyer11/wdl-tour-guide-bot): A discord bot written in Typescript that has auto help and reply features, auto-spammer/malicious actor detection and banning, moderation tools, and more
-
-
+- [**ESP32ChessBot**](https://github.com/ncolyer11/ESP32ChessBot) (C++): a chess engine of roughly 1,000 to 1,500 Elo, built for speed and memory efficiency so it runs on an ESP32 with about 200 kB of RAM
+- [**Stochastic Growth Simulator**](https://github.com/ncolyer11/Chorus-Simulator) (Julia): a Monte Carlo style simulation of branching growth on a 3D lattice, driven by random update events. It records population counts, spatial positions and mean extents over time to estimate the expected size and shape of a fully grown chorus plant structure in Minecraft
+- [**Stemlight**](https://github.com/ncolyer11/Stemlight) (Python): a detailed GUI program with extensive tools for analysing and learning about nether tree growth patterns and farming
+- [**S2RM: Schematic to Raw Materials**](https://github.com/ncolyer11/S2RM) (Java, Python): a fast GUI program that turns a list of required materials into their base raw materials
+- [**SSS Video Animation Code**](https://github.com/ncolyer11/SSS-Manim-Rendering-Code) (Python, Manim): the code behind almost 10 minutes of engineering and statistical animations in [Designing the Fastest Self-sustaining Nether Tree Farm using Science
+](https://youtu.be/p4mmiRDvP1w?si=pZl4ftjxKmLwBaUt&t=315)
 ## Get in Touch
 
-Feel free to reach out to me through the following channels:
-
-- [YouTube](https://www.youtube.com/@ncolyer): ncolyer
-- [Twitter](https://twitter.com/ncolyer11): @ncolyer11 (don't use twitter anymore)
-- [Discord](https://discord.gg/EKKkyfcPPV): Huge Fungi Huggers
-<!--
-**ncolyer11/ncolyer11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** if I've contacted you, the best way to reach out is by replying to the email I sent.
+- [YouTube](https://www.youtube.com/@ncolyer): @ncolyer
+- [Discord](https://discord.gg/EKKkyfcPPV): @ncolyer
