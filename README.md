@@ -1,4 +1,4 @@
-Hello there, I write simulation and data analysis software as well as some embedded code that runs on real-world projects. I'm most at home in Python and Julia but can code in C all night long even with airplane mode on. I study electrical engineering and computer science, and I like studying and making sense of messy systems by turning them into models you can run, measure and plot.
+Hello there, I write simulation and data analysis software as well as some embedded code that runs on real-world projects. I'm most at home in Python and Julia but can code in C all night long even with airplane mode on. I study electrical engineering and computer science, and I like making sense of messy systems through turning them into models (predominantly visual ones) you can run, measure and plot.
 
 [![GitHub followers](https://img.shields.io/github/followers/ncolyer11?label=Follow&style=social)](https://github.com/ncolyer11)
 ![Profile Views](https://komarev.com/ghpvc/?username=ncolyer11&color=blue)
